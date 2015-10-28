@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# KQED's JavaScript Style Guide() / Forked from AirBnb's excellent project {
 
 *A mostly reasonable approach to JavaScript*
 
